@@ -1,0 +1,19 @@
+{
+    "Parameters": [
+        {
+            "Name": "/app/ROOT_URL",
+            "Type": "String",
+            "Value": "www.example.com"
+        },
+        {
+            "Name": "/app/MAX_CONNECTIONS",
+            "Type": "String",
+            "Value": "300"
+        },
+        {
+            "Name": "/app/DATABASE_PORT",
+            "Type": "String",
+            "Value": "1234"
+        }
+    ]
+}
